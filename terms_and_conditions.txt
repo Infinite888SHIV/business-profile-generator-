@@ -1,0 +1,70 @@
+BUSINESS PROFILE — TERMS & CONDITIONS / CONTENT RULES
+=======================================================
+
+These rules govern what a generated or user-edited business profile summary
+may contain. The copywriter agent must follow them when producing text, and
+the compliance agent must check the final text against them. Flagged items
+are reviewed by a human team before publication.
+
+Edit this file to change the rules — the app reads it at runtime, so no code
+changes are needed.
+
+-------------------------------------------------------
+1. LENGTH
+-------------------------------------------------------
+1.1 The profile summary must not exceed 500 characters, including spaces and
+    punctuation.
+1.2 Text that exceeds 500 characters must be flagged as a violation.
+
+-------------------------------------------------------
+2. TRUTHFULNESS & CLAIMS
+-------------------------------------------------------
+2.1 No false, misleading, or unverifiable claims about the business, its
+    products, or its services.
+2.2 No guarantees that cannot be substantiated (e.g. "guaranteed results",
+    "100% success", "risk-free") unless clearly supportable.
+2.3 No unsupported superlatives or "best/only/number one" style claims
+    (e.g. "the best in the country", "the only provider") without evidence.
+2.4 No fabricated statistics, awards, certifications, ratings, or endorsements.
+2.5 No claims of partnerships, affiliations, or accreditations that are not
+    genuine.
+
+-------------------------------------------------------
+3. FAIR & LAWFUL CONTENT
+-------------------------------------------------------
+3.1 No discriminatory, offensive, or exclusionary language regarding race,
+    gender, religion, nationality, disability, age, or sexual orientation.
+3.2 No disparagement of named competitors.
+3.3 No content that promotes illegal activity or unsafe practices.
+3.4 No hate speech, harassment, or threatening language.
+
+-------------------------------------------------------
+4. REGULATED & SENSITIVE CLAIMS
+-------------------------------------------------------
+4.1 No medical, health, legal, or financial advice or outcome promises
+    (e.g. "cures", "guaranteed returns", "will win your case").
+4.2 No pricing or financial terms presented as binding offers.
+4.3 Claims in regulated industries must be framed as general descriptions,
+    not professional advice.
+
+-------------------------------------------------------
+5. PRIVACY & DATA
+-------------------------------------------------------
+5.1 No personal data of identifiable private individuals (names, contact
+    details, ID numbers) beyond the business's own public contact info.
+5.2 No confidential client information.
+
+-------------------------------------------------------
+6. TONE & PROFESSIONALISM
+-------------------------------------------------------
+6.1 Language must be professional and suitable for a public business profile.
+6.2 No profanity, slurs, or explicit content.
+6.3 No placeholder or robotic phrasing (e.g. "insert value here", "[TODO]").
+
+-------------------------------------------------------
+NOTES FOR REVIEWERS
+-------------------------------------------------------
+- The compliance agent flags potential issues only; it is not a legal
+  authority. A human team makes the final decision on each flagged item.
+- When a rule is violated, the flag should quote the exact sentence or phrase
+  from the profile that caused it, so reviewers can locate it precisely.
